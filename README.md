@@ -10,6 +10,7 @@ Note – Same schema is applicable for all 4 source systems datasets.
 Each data source system contains 3 types of datasets named Customers, Products, and
 Transactions.
 Use cases:-
+
       Usecase 1 to Usecase 7 (about csv)
       Usecase-1 Load all three csv datasets in Pandas Data frames and display first 5 records.
       Usecase-2 Display only those customers from CSV_s1, who purchased more than 3 products
